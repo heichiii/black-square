@@ -1,0 +1,10 @@
+[project]
+name = "black-square"
+version = "0.1.0"
+description = "黑色矩形窗口 - 始终置顶"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "pyinstaller>=6.19.0",
+    "pyqt6",
+]
