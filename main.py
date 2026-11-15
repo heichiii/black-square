@@ -96,7 +96,7 @@ class BlackSquareWindow(QMainWindow):
         
         if self.is_transparent:
             # 设置为透明
-            self.setWindowOpacity(0.1)
+            self.setWindowOpacity(0.2)
             # self.toggle_button.setText("")
         else:
             # 设置为全黑（不透明）
